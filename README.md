@@ -4,10 +4,9 @@ Protogenics Institute for Machine Intelligence.
 
 ## :computer: Technologies
 * Robotics
-* Biomimetics
-* Mechatronics
 * Machine Learning
 * Data Science
+* Biomimetics
 * Frontend and Backend Web Development
 
 ## Programming Languages
