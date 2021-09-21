@@ -1,6 +1,6 @@
 
 
-Protogenics Institute for Machine Intelligence.
+Full Stack Roboticist at Protogenics Institute for Machine Intelligence.
 
 ## :computer: Technologies
 * Robotics
