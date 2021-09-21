@@ -5,7 +5,7 @@ Full Stack Roboticist at Protogenics Institute for Machine Intelligence.
 ## :computer: Technologies
 * Robotics
 * Artificial Intelligence
-* Full Stack Web Development
+* Biomimetics
 
 
 ## Programming Languages
