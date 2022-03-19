@@ -1,6 +1,6 @@
 
 
-Full Stack Roboticist at Protogenics Institute for Machine Intelligence.
+Full Stack Roboticist and Natural Language Processing Researcher.
 
 ## :computer: Technologies
 * Biomimetics
