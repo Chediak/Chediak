@@ -21,11 +21,6 @@ Research Topics: Robotics and Natural Language Processing.
 </a>
 
 ## Programming Languages
-
-https://github.com/garrett/Tux/blob/main/tux-large.png
-
-
-
 <img src = 'https://github.com/MarikIshtar007/MarikIshtar007/blob/master/images/c-original.svg' width='50'/> <img src = 'https://github.com/MarikIshtar007/MarikIshtar007/blob/master/images/cpp.svg' width='50'/> <img src = 'https://github.com/MarikIshtar007/MarikIshtar007/blob/master/images/python.svg' height='50'/> <img src = 
 'https://github.com/MarikIshtar007/MarikIshtar007/blob/master/images/js.svg' height='50'/> <img src = 
 'https://img.shields.io/badge/ros-%230A0FF9.svg' width='50'/> <img src = 
