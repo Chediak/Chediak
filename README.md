@@ -14,10 +14,12 @@ Research Topics: Robotics and Natural Language Processing.
 
 ![Chediak's GitHub stats](https://github-readme-stats.vercel.app/api?username=Chediak&theme=dark&show_icons=true)
 
+https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white
+
 ## Programming Languages
-<img src = 'https://github.com/MarikIshtar007/MarikIshtar007/blob/master/images/c-original.svg' width='30'/> <img src = 'https://github.com/MarikIshtar007/MarikIshtar007/blob/master/images/cpp.svg' width='30'/> <img src = 'https://github.com/MarikIshtar007/MarikIshtar007/blob/master/images/python.svg' height='30'/> <img src = 
-'https://github.com/MarikIshtar007/MarikIshtar007/blob/master/images/js.svg' height='30'/> <img src = 
-'https://img.shields.io/badge/ros-%230A0FF9.svg' width='30'/> <img src = 
-'https://github.com/MarikIshtar007/MarikIshtar007/blob/master/images/sql.svg' width='30'/> <img src = 
-'https://github.com/MarikIshtar007/MarikIshtar007/blob/master/images/git.svg' width='30'/>
+<img src = 'https://github.com/MarikIshtar007/MarikIshtar007/blob/master/images/c-original.svg' width='50'/> <img src = 'https://github.com/MarikIshtar007/MarikIshtar007/blob/master/images/cpp.svg' width='50'/> <img src = 'https://github.com/MarikIshtar007/MarikIshtar007/blob/master/images/python.svg' height='50'/> <img src = 
+'https://github.com/MarikIshtar007/MarikIshtar007/blob/master/images/js.svg' height='50'/> <img src = 
+'https://img.shields.io/badge/ros-%230A0FF9.svg' width='50'/> <img src = 
+'https://github.com/MarikIshtar007/MarikIshtar007/blob/master/images/sql.svg' width='50'/> <img src = 
+'https://github.com/MarikIshtar007/MarikIshtar007/blob/master/images/git.svg' width='50'/>
 
