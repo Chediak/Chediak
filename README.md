@@ -12,7 +12,7 @@ Developed a range of interactive installations using technologies including mach
 
 Research Topics: Robotics and Natural Language Processing.
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=chediak)](https://github.com/anuraghazra/github-readme-stats)
+![Chediak's GitHub stats](https://github-readme-stats.vercel.app/api?username=Chediak&theme=dark&show_icons=true)
 
 ## Programming Languages
 <img src = 'https://github.com/MarikIshtar007/MarikIshtar007/blob/master/images/c-original.svg' width='30'/> <img src = 'https://github.com/MarikIshtar007/MarikIshtar007/blob/master/images/cpp.svg' width='30'/> <img src = 'https://github.com/MarikIshtar007/MarikIshtar007/blob/master/images/python.svg' height='30'/> <img src = 
