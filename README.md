@@ -22,7 +22,8 @@ Research Topics: Robotics and Natural Language Processing.
 
 ## Programming Languages
 
-![Your Repository's Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=Your_GitHub_Username&theme=blue-green)
+[![Linux](https://svgshare.com/i/Zhy.svg)](https://svgshare.com/i/Zhy.svg)
+
 
 
 <img src = 'https://github.com/MarikIshtar007/MarikIshtar007/blob/master/images/c-original.svg' width='50'/> <img src = 'https://github.com/MarikIshtar007/MarikIshtar007/blob/master/images/cpp.svg' width='50'/> <img src = 'https://github.com/MarikIshtar007/MarikIshtar007/blob/master/images/python.svg' height='50'/> <img src = 
