@@ -4,7 +4,7 @@ Full Stack Roboticist and Natural Language Processing Researcher.
 
 ## :computer: Technologies
 * Natural Language Processing
-* Robotics
+* Full Stack Robotics
 * Biomimetics
 
 Full-stack roboticist, design, construction, and use of fully autonomous robots to perform tasks done traditionally by human beings. Robots used in manufacture to perform complex tasks, and in environments where work must be performed in environments hazardous to humans.
