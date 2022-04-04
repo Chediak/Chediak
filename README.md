@@ -12,6 +12,8 @@ Developed a range of interactive installations using technologies including mach
 
 Research Topics: Robotics and Natural Language Processing.
 
+![Your Repository's Stats](https://github-readme-stats.vercel.app/api?username=Your_GitHub_Username&show_icons=true)
+
 ## Programming Languages
 <img src = 'https://github.com/MarikIshtar007/MarikIshtar007/blob/master/images/c-original.svg' width='30'/> <img src = 'https://github.com/MarikIshtar007/MarikIshtar007/blob/master/images/cpp.svg' width='30'/> <img src = 'https://github.com/MarikIshtar007/MarikIshtar007/blob/master/images/python.svg' height='30'/> <img src = 
 'https://github.com/MarikIshtar007/MarikIshtar007/blob/master/images/js.svg' height='30'/> <img src = 
