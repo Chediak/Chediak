@@ -22,7 +22,7 @@ Research Topics: Robotics and Natural Language Processing.
 
 ## Programming Languages
 
-[![Linux](https://svgshare.com/i/Zhy.svg)](https://svgshare.com/i/Zhy.svg)
+https://github.com/garrett/Tux/blob/main/tux-large.png
 
 
 
