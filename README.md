@@ -14,7 +14,7 @@ Research Topics: Robotics and Natural Language Processing.
 
 ![Chediak's GitHub stats](https://github-readme-stats.vercel.app/api?username=Chediak&theme=dark&show_icons=true)
 
-<a href="https://www.linkedin.com/in/<mattheuschediak>" alt="linkedin" target="_blank">
+<a href="https://www.linkedin.com/in/mattheuschediak" alt="linkedin" target="_blank">
 
 <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white">
 
