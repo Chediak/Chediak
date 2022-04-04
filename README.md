@@ -14,7 +14,11 @@ Research Topics: Robotics and Natural Language Processing.
 
 ![Chediak's GitHub stats](https://github-readme-stats.vercel.app/api?username=Chediak&theme=dark&show_icons=true)
 
-https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white
+<a href=https://www.linkedin.com/in/mattheus-chediak-3a90b3a0/" alt="linkedin" target="_blank">
+
+<img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white">
+
+</a>
 
 ## Programming Languages
 <img src = 'https://github.com/MarikIshtar007/MarikIshtar007/blob/master/images/c-original.svg' width='50'/> <img src = 'https://github.com/MarikIshtar007/MarikIshtar007/blob/master/images/cpp.svg' width='50'/> <img src = 'https://github.com/MarikIshtar007/MarikIshtar007/blob/master/images/python.svg' height='50'/> <img src = 
