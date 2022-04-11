@@ -7,7 +7,7 @@ Full Stack Roboticist and Natural Language Processing Researcher.
 * Full Stack Robotics
 * Generative Art
 
-Full-stack roboticist, design, construction, and use of fully autonomous robots to perform tasks done traditionally by human beings. I conceived and implemented a variety of interactive installations, combining my passion for art, research, and technology..
+Full-stack roboticist, design, construction, and use of fully autonomous robots to perform tasks done traditionally by human beings. I conceived and implemented a variety of interactive installations, combining my passion for art, research, and technology.
 Developed a range of interactive installations using technologies including machine learning (Artificial Intelligence), computer vision, distributed computing, robotics, natural language processing, controllers, sensors, embedded computing and data visualization. Dealing with constructing robots from highly compliant materials, similar to those found in living organisms. Design and construction of biomedical robots with physically flexible-bodies and electronics. Machines that are predominately or entirely soft. Automated recognition of patterns and regularities in data. Applications in statistical data analysis, decision-making, signal processing, image analysis, computer graphics and machine learning.
 
 Research Topics: Robotics and Natural Language Processing.
