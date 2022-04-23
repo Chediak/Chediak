@@ -24,9 +24,12 @@ Research Topics: Robotics and Natural Language Processing.
 </a>
 
 ## Programming Languages
-<img src = 'https://github.com/MarikIshtar007/MarikIshtar007/blob/master/images/c-original.svg' width='50'/> <img src = 'https://github.com/MarikIshtar007/MarikIshtar007/blob/master/images/cpp.svg' width='50'/> <img src = 'https://github.com/MarikIshtar007/MarikIshtar007/blob/master/images/python.svg' height='50'/> <img src = 
-'https://github.com/MarikIshtar007/MarikIshtar007/blob/master/images/js.svg' height='50'/> <img src = 
-'https://img.shields.io/badge/ros-%230A0FF9.svg' width='50'/> <img src = 
-'https://github.com/MarikIshtar007/MarikIshtar007/blob/master/images/sql.svg' width='50'/> <img src = 
-'https://github.com/MarikIshtar007/MarikIshtar007/blob/master/images/git.svg' width='50'/>
+<img src = 'https://github.com/MarikIshtar007/MarikIshtar007/blob/master/images/c-original.svg' width='50'/> 
+ <img src = 'https://github.com/MarikIshtar007/MarikIshtar007/blob/master/images/cpp.svg' width='50'/> 
+ <img src = 'https://github.com/MarikIshtar007/MarikIshtar007/blob/master/images/python.svg' height='50'/> 
+ <img src = 'https://github.com/JuliaLang/julia-logo-graphics/blob/master/images/julia-logo-color.png' height='50'/>
+ <img src = 'https://github.com/MarikIshtar007/MarikIshtar007/blob/master/images/js.svg' height='50'/> 
+ <img src = 'https://img.shields.io/badge/ros-%230A0FF9.svg' width='50'/> 
+ <img src = 'https://github.com/MarikIshtar007/MarikIshtar007/blob/master/images/sql.svg' width='50'/> 
+ <img src = 'https://github.com/MarikIshtar007/MarikIshtar007/blob/master/images/git.svg' width='50'/>
 
