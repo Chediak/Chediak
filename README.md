@@ -37,6 +37,6 @@ Research Topics: Robotics and Natural Language Processing.
  
 ```text
 Python         7 hrs 29 mins       █████████░     91.08%
-Bash           2 hrs 13 mins             ░░░░░░░░░░     27.56%
-Text           15 min               ░░░░░░░░░░     9.19%
+Bash           2 hrs 13 mins       ░░░░░░░░░░     27.56%
+Text           15 min              ░░░░░░░░░░     9.19%
 ```
