@@ -32,7 +32,9 @@ Research Topics: Robotics and Natural Language Processing.
  <img src = 'https://img.shields.io/badge/ros-%230A0FF9.svg' width='50'/> 
  <img src = 'https://github.com/MarikIshtar007/MarikIshtar007/blob/master/images/sql.svg' width='50'/> 
  <img src = 'https://github.com/MarikIshtar007/MarikIshtar007/blob/master/images/git.svg' width='50'/>
-
+ 
+<b><b>
+ 
 ```text
 Python         4 hrs 29 mins       █████████░     91.08%
 Bash           10 mins             ░░░░░░░░░░     6.56%
